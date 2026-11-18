@@ -1,0 +1,2 @@
+- name: ChatGPT documentation reviewer
+  uses: Hamish-taylor/ChatGPT-Documentation-Checker@1.0.0-rc.2
